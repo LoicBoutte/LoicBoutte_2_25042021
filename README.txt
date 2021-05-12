@@ -1,81 +1,37 @@
-Raleway Variable Font
-=====================
+Deuxième projet du parcours développeur web chez OpenClassrooms : "Transformez une maquette en site Web"
 
-This download contains Raleway as both variable fonts and static fonts.
+L'objectif est de réaliser l'intégration de la maquette d'un site de planification de vacances nommé "Reservia"
 
-Raleway is a variable font with this axis:
-  wght
+image
+Technologies, logiciels et langages utilisés
 
-This means all the styles are contained in these files:
-  Raleway-VariableFont_wght.ttf
-  Raleway-Italic-VariableFont_wght.ttf
+    Visual Studio Code
+    Git et Github
+    HTML5
+    CSS3
+    Gimp
+    Plugins : Liveserver, Beautify
+    Flexbox
+    Devtools
 
-If your app fully supports variable fonts, you can now pick intermediate styles
-that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Raleway:
-  static/Raleway-Thin.ttf
-  static/Raleway-ExtraLight.ttf
-  static/Raleway-Light.ttf
-  static/Raleway-Regular.ttf
-  static/Raleway-Medium.ttf
-  static/Raleway-SemiBold.ttf
-  static/Raleway-Bold.ttf
-  static/Raleway-ExtraBold.ttf
-  static/Raleway-Black.ttf
-  static/Raleway-ThinItalic.ttf
-  static/Raleway-ExtraLightItalic.ttf
-  static/Raleway-LightItalic.ttf
-  static/Raleway-Italic.ttf
-  static/Raleway-MediumItalic.ttf
-  static/Raleway-SemiBoldItalic.ttf
-  static/Raleway-BoldItalic.ttf
-  static/Raleway-ExtraBoldItalic.ttf
-  static/Raleway-BlackItalic.ttf
+Éléments fournis par l'entreprise virtuelle
 
-Get started
------------
+    Les maquettes desktop et mobile sont fournies
+    Les icônes proviennent de Font Awesome
+    Les couleurs : bleu #0065FC - bleu clair #DEEBFF - gris #F2F2F2
+    La police : "Raleway"
 
-1. Install the font files you want to use
+Cahier des charges
 
-2. Use your app's font picker to view the font family and all the
-available styles
-
-Learn more about variable fonts
--------------------------------
-
-  https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts
-  https://variablefonts.typenetwork.com
-  https://medium.com/variable-fonts
-
-In desktop apps
-
-  https://theblog.adobe.com/can-variable-fonts-illustrator-cc
-  https://helpx.adobe.com/nz/photoshop/using/fonts.html#variable_fonts
-
-Online
-
-  https://developers.google.com/fonts/docs/getting_started
-  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
-  https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts
-
-Installing fonts
-
-  MacOS: https://support.apple.com/en-us/HT201749
-  Linux: https://www.google.com/search?q=how+to+install+a+font+on+gnu%2Blinux
-  Windows: https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows
-
-Android Apps
-
-  https://developers.google.com/fonts/docs/android
-  https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts
-
-License
--------
-Please read the full license text (OFL.txt) to understand the permissions,
-restrictions and requirements for usage, redistribution, and modification.
-
-You can use them freely in your products & projects - print or digital,
-commercial or otherwise. However, you can't sell the fonts on their own.
-
-This isn't legal advice, please consider consulting a lawyer and see the full
-license for all details.
+    L'integration doit se faire en HTML5 & CSS3, sans framework (bootstrap par exemple)
+    Le champ de recherche doit être un champ de saisie, dont le texte peut être édité. La fonctionnalité de recherche ne doit pas être implémenté pour autant.
+    Chaque carte d’hébergement ou d’activité devra être cliquable dans son intégralité. Pour l’instant les liens seront vides.
+    Les filtres, bien que non fonctionnels, doivent changer de style au survol.
+    Dans le menu, les liens “Hébergements” et “Activités” sont des ancres qui doivent mener aux sections de la page.
+    Même si aucune maquette pour la résolution tablette n'est fournis, l'intégration doit la prendre en charge.
+    Les images doivent être de taille adéquate afin qu'elle soit le plus jolie possible en impactant le moins possible le temps de chargement de la page.
+    Le code devra utiliser les balises sémantiques et ne doit contenir aucune erreur ni alerte au validateur W3C HTML et CSS.
+    Le site devra être compatible avec les dernières versions de Chrome et Firefox.
+    Le HTML et le CSS doivent être séparés et le dossier doit être organisé
+    Le code doit être versionné avec git et doit avoir un repo distant sur Github ou Gitlab
+    Le site doit être responsive
