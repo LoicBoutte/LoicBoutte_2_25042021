@@ -263,6 +263,7 @@
        .activite5,
        .activite6 {
            box-shadow: 0 0 20px #0000002e;
+           
        }
 
 
@@ -339,7 +340,7 @@
        .photo_activite44,
        .photo_activite55,
        .photo_activite66 {
-           width: 330px;
+           width: 259px;
            margin-left: 5px;
            margin-top: 5px;
        }
