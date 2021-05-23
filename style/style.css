@@ -454,9 +454,9 @@ h3
 
 /*Activités à Marseille*/
 
-#Activités_à_Marseille 
+#Activites_à_Marseille 
 {
-    background-color: white;
+    
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
