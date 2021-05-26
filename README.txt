@@ -4,21 +4,21 @@ L'objectif est de réaliser l'intégration de la maquette d'un site de planifica
 
 Technologies, logiciels et langages utilisés
 
-    Visual Studio Code
-    Git et Github
-    HTML5
-    CSS3
-    Gimp
-    Plugins : Liveserver, Beautify
-    Flexbox
-    Devtools
+    -Visual Studio Code
+    -Git et Github
+    -HTML5
+    -CSS3
+    -Gimp
+    -Plugins : Liveserver, Beautify
+    -Flexbox
+    -Devtools
 
 Éléments fournis par l'entreprise virtuelle
 
-    Les maquettes desktop et mobile sont fournies
-    Les icônes proviennent de Font Awesome
-    Les couleurs : bleu #0065FC - bleu clair #DEEBFF - gris #F2F2F2
-    La police : "Raleway"
+    -Les maquettes desktop et mobile sont fournies
+    -Les icônes proviennent de Font Awesome
+    -Les couleurs : bleu #0065FC - bleu clair #DEEBFF - gris #F2F2F2
+    -La police : "Raleway"
 
 Cahier des charges
 
