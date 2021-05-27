@@ -455,7 +455,7 @@ h3
 
 /*Activités à Marseille*/
 
-#Activites_à_Marseille 
+#Activites_a_Marseille 
 {
     
     display: flex;
@@ -525,12 +525,12 @@ h3
     border-top-right-radius: 10px;
 }
 
-#Activites_à_Marseille h1 
+#Activites_a_Marseille h1 
 {
     font-size: large;
 }
 
-#Activites_à_Marseille h2 {
+#Activites_a_Marseille h2 {
     font-size: medium;
 }
 

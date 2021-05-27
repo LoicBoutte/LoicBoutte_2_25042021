@@ -84,7 +84,7 @@
        height: 391px;
    }
 
-   #Activites_à_Marseille
+   #Activites_a_Marseille
    {
        margin-left: 45px;
    }
@@ -182,7 +182,7 @@
            width: 145px;
        }
 
-       #Activites_à_Marseille {
+       #Activites_a_Marseille {
            margin-left: 50px;
        }
 
@@ -247,7 +247,7 @@
            justify-content: space-around;
        }
 
-       #Activites_à_Marseille {
+       #Activites_a_Marseille {
            margin-left: 0px;
        }
 
@@ -512,7 +512,7 @@
        .photo_activite11,
        .photo_activite22,
        .photo_activite33,
-}      .photo_activite44,
+       .photo_activite44,
        .photo_activite55,
        .photo_activite66 
        {
@@ -528,7 +528,7 @@
            max-width: 270px;
        }
 
-       #Activites_à_Marseille {
+       #Activites_a_Marseille {
            margin-left: 30px;
        }
 
@@ -559,7 +559,7 @@
            padding-right: 5px;
        }
 
-       #Activites_à_Marseille {
+       #Activites_a_Marseille {
            margin-left: 40px;
        }
 
