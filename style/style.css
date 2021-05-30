@@ -43,6 +43,7 @@ header {
 .headernavlink 
 {
     padding-top: 30px;
+    
 }
 
 /*Navigation*/
@@ -77,7 +78,12 @@ a:hover
     text-decoration: #0065FC;
     color: #0065FC;
 }
+.hebergements2
 
+{
+    color: #0065FC;
+    
+}
 header nav a 
 {
     margin-left: 20px;
@@ -98,7 +104,8 @@ header nav
 {
     color: #0065FC;
     font-weight: bold;
-    margin-right: 10px;
+    margin-right: 20px;
+    
     margin-bottom: 0.5px;
 }
 
@@ -237,12 +244,17 @@ header nav
 .fa-money-bill-wave,
 .fa-male,
 .fa-heart,
-.fa-dog {
+.fa-dog
+{
     color: #0065FC;
     font-size: 1.5em;
 }
 
-
+.fa-info-circle 
+{
+    color: #0065FC;
+    font-size: 1.5em; 
+}
 h3 
 {
     font-size: small;
